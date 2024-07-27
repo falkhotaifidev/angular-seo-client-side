@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng deploy --base-href=https://falkhotaifidev.github.io/testing-angular-metadata/ --repo=https://github.com/falkhotaifidev/testing-angular-metadata.git"
+    "deploy": "ng deploy --base-href=https://falkhotaifidev.github.io/angular-seo-client-side/ --repo=https://github.com/falkhotaifidev/angular-seo-client-side.git"
   },
   "private": true,
   "dependencies": {
